@@ -1,3 +1,9 @@
+---
+markmap:
+  colorFreezeLevel: 3
+  initialExpandLevel: 2
+  maxWidth: 400
+---
 # Metaprogramming with Python
 - A small course to explain metaprogramming in Python. 
 - This has been prepared for a 1,5h workshop and shared for everyone interested.
@@ -20,7 +26,7 @@ Each chapter will have code snippets under "workshop" folder to explain with exa
   - Real world examples
 - Metaclasses
   - Do you need them?
-  - Real world examples
+  - Real world examples (don't loose them)
 
 ## Introduction
 - Meta == Greek word for "beyond"
@@ -59,10 +65,9 @@ Each chapter will have code snippets under "workshop" folder to explain with exa
 - From the concept
 - Through decorator construction
 - Until real examples
-
-### Workshop
-- The making of a decorator
-- Real world examples
+- Workshop
+  - The making of a decorator
+  - Real world examples
 
 ## Metaclasses
 - Do we need them?
